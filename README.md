@@ -43,9 +43,6 @@ Hi 👋 My name is Anson
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dzintt&theme=github_dark" alt="dzintt's GitHub stats" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzintt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
     </td>
   </tr>
