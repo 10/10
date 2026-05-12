@@ -43,7 +43,7 @@ Hi 👋 My name is Anson
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzintt&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats" />
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@ Hi 👋 My name is Anson
 ## 🐍 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dzintt/dzintt/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/10/10/output/snake.svg" alt="Snake animation" />
 </div>
 
 <hr>
